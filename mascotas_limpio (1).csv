@@ -1,0 +1,12 @@
+id_mascota,especie,raza,edad,peso_kg,temperatura_c,frec_cardiaca,frec_respiratoria,costo_consulta
+1,Perro,Criollo,3.0,12.5,38.5,110.0,25.0,50.0
+2,Gato,Siames,2.0,4.2,39.0,110.0,20.0,45.0
+C-003,Perro,Labrador,5.0,25.0,38.7,95.0,30.0,60.0
+4,Gato,Persa,7.0,5.1,38.9,140.0,22.0,55.0
+5,Perro,No registra,4.0,18.3,38.4,100.0,28.0,65.0
+6,Gato,Mestizo,1.0,3.8,38.7,180.0,35.0,40.0
+7,Perro,Husky,2.0,22.5,38.2,105.0,26.0,50.0
+8,Gato,No registra,0.5,2.1,39.1,150.0,40.0,42.0
+9,Perro,Pastor Alemán,6.0,30.0,38.5,90.0,24.0,70.0
+10,Gato,Angora,3.0,12.5,39.5,160.0,42.0,48.0
+... (490 registros más),Sin especie,No registra,3.0,12.5,38.7,110.0,27.0,50.0
